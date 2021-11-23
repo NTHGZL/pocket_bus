@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "C'est une app qui permet de savoir à quelle heure son bus arrive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nantes",
+    "bus",
+    "application",
+    "tan"
+  ],
+  "author": "Nathan Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
